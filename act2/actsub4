@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Assignment</title>
+<body>
+
+
+<a href="https://twitter.com/">
+    <img scr="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Symbol.png" width="300" height="400"> 
+    
+ </a>
+    single tap on the pic
+
+<br>
+<a href="https://en.wikipedia.org/wiki/R.V._College_of_Engineering">click here for RVCE </a>
+<br>
+
+<a href="https://www.rvce.edu.in//">click here for RVCE </a>
+
+
+
+
+</body>
+</html>
