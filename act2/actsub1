@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   
+    <title>Assignment</title>
+<body>
+
+
+<p>
+        states
+    <ul>
+        <li>Bihar</li>
+        <ol>
+          <li>Patna</li>
+          <li>Gaya</li>
+          <li>Bhagalpur</li>
+          <li>Muzaffarpur</li>
+          <li>Biharsharif</li>
+          </ol>
+
+   
+        <li>Jharkhand</li>
+      <ol type="a">
+        <li>Dhanbad</li>
+        <li>Ranchi</li>
+        <li>Jamshedpur</li>
+        <li>Bokaro Steel</li>
+        <li>Mango</li>
+      </ol>
+   
+  <li>Karnataka</li>
+        <ol>
+            <li>Bangalore</li>
+            <li>Raichur </li>
+            <li>Hassan</li>
+            <li>Tumkur</li>
+            <li>Gulbarga</li>
+        </ol>
+
+<li>Punjab</li>
+            <ol>
+                <li>Amritsar</li>
+                 <li>Jalandhar</li>
+                 <li>Ludhiana</li>
+                 <li>Patiala</li>
+                 <li>Kapurthala</li>
+                
+        </ol>
+                
+  <li>Telangana</li>
+    <ol>
+         <li>Hyderabad</li>
+         <li>Nizamabad</li>
+         <li>Karimnagar</li> 
+         <li>Adilabad </li>
+         <li>Warangal</li>
+    
+    </ol>
+    
+  </ul>
+            
+
+
+</body>
+</html>
