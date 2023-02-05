@@ -1,0 +1,34 @@
+ol {
+    list-style-type: upper-roman;
+  }
+  
+  ol.body-style {
+    list-style-type: upper-alpha;
+  }
+  
+  ol li ol {
+    list-style-type: decimal;
+  }
+  
+  #i.compact {
+    background-color: pink;
+  }
+  
+  #ii.midsize {
+    background-color: rgb(251, 158, 174);
+  }
+  
+  #iii.sports {
+    background-color: rgb(251, 119, 141);
+  }
+  
+li.show{
+}
+.hide{
+  display: none;
+}
+.show:hover .hide{
+
+  display: block;
+
+}
