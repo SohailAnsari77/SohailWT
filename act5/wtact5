@@ -2,19 +2,7 @@
 <html>
 <title></title>
 <head>
-    <style>
-    .verticalTableHeader {
-        writing-mode: vertical-lr;
-
-
-        /*transform-origin:50% 50%;
-        text-align:center;
-        border:0;
-        border-color: rgb(247, 247, 247);
-        transform: rotate(90deg);
-        font-size:20px;    
-        letter-spacing: 5px;*/
-        }</style>
+    
 </head>
 <body>
    
